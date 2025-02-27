@@ -1,7 +1,14 @@
 This is the homepage of SUSS BIA. We are just starting.
 
 ## License
-This project is licensed under the terms of the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+
+This project includes both **code** and **documentation**, and is licensed under the following terms:
+
+- **Code** (Python scripts, SQL queries, HTML, CSS, JavaScript, templates) is licensed under the **Apache License 2.0**. You may use, modify, and distribute it under the terms of this license. See the [LICENSE](LICENSE) file for details.
+- **Documentation** (guides, explanations, and written content) is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**. See the [Creative Commons License](https://creativecommons.org/licenses/by/4.0/) for details.
+
+By contributing to this project, you agree to license your contributions under these terms.
+
 <!--
 **suss-bia/suss-bia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
