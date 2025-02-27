@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## License
+This project is licensed under the terms of the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 <!--
 **suss-bia/suss-bia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
