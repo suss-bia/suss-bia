@@ -1,4 +1,5 @@
-## Hi there 👋
+This is the homepage of SUSS BIA. We are just starting.
+
 ## License
 This project is licensed under the terms of the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 <!--
